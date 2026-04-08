@@ -1,2 +1,2 @@
-# Honeypot-
-Cowrie SSH Honeypot on a VPS
+# Honeypot
+I made a Cowrie SSH Honeypot on a VPS
